@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-11-06T11:28:40.181562460Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-16T12:16:52.973879951Z",
     "templateType": "trip_b",
     "propertyId": "42037390-2f49-475d-b0df-dd0c3fe681f0",
     "homepageId": "01a1aef3-96ff-71c2-8701-29d865f4aa63"
@@ -22,12 +22,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 저녁 10시 이후에 도착하실 경우 미리 연락바랍니다.",
-    "usageGuide": "[공지사항]\n- 강릉 화재사건 이후 버너 반입 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 저녁 10시 이후에 도착하실 경우 미리 연락바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 최대인원 초과입실 불가\n\n[공용바베큐]\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1인 추가시 5,000원) (1박기준/현장결제)\n- 준비 소요시간: 이용 30분 전 신청\n- 이용 시간: 입실후~23:00\n- 우천 시 이용 가능 \n- 동계 시 이용 가능 \n※ 숯/그릴/버너 개인지참불가\n※ 이후에는 매너타임지켜주세요\n※ 기본양념 필요하신분은 사전에 펜션문의주세요!\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 마릿수: 객실당 2마리까지 동반가능\n- 제한 무게: 5kg미만 반려견만 동반가능\n- 애견 비품: 객실 내 배변패드 1-2장제공, 밥그릇/물그릇 구비\n※ 그 외 용품은 개인지참 필수\n\n[조식 서비스]\n- 이용 요금: 무료\n\n[부대시설]\n[텃밭]\n- 싱싱한 채소 제공\n- 제공 기간: 5월 ~ 8월까지\n- 제공 품목: 상추, 쌈채소 등 야채제공\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 마트: 하나로마트 사천농협 본점 (차량 6분)\n- 편의점: 세븐일레븐 강릉해안로점 (차량 2분)\n- 강릉 경포호수 (차량 6분, 4.1km)\n- 에디슨과학박물관 (차량 5분, 3.6km)\n- 오죽헌 (차량 11분, 6.6km)\n- 선교장 (차량 9분, 5.7km)\n- 허균,허난설헌생가터 (차량 9분, 5.2km)\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "- 강릉 화재사건 이후 버너 반입 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 저녁 10시 이후에 도착하실 경우 미리 연락바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※ 최대인원 초과입실 불가\n\n[공용바베큐]\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1인 추가시 5,000원) (1박기준/현장결제)\n- 준비 소요시간: 이용 30분 전 신청\n- 이용 시간: 입실후~23:00\n- 우천 시 이용 가능 \n- 동계 시 이용 가능 \n※ 숯/그릴/버너 개인지참불가\n※ 이후에는 매너타임지켜주세요\n※ 기본양념 필요하신분은 사전에 펜션문의주세요!\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 마릿수: 객실당 2마리까지 동반가능\n- 제한 무게: 5kg미만 반려견만 동반가능\n- 애견 비품: 객실 내 배변패드 1-2장제공, 밥그릇/물그릇 구비\n※ 그 외 용품은 개인지참 필수\n\n[조식 서비스]\n- 이용 요금: 무료\n\n[부대시설]\n[텃밭]\n- 싱싱한 채소 제공\n- 제공 기간: 5월 ~ 8월까지\n- 제공 품목: 상추, 쌈채소 등 야채제공\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 마트: 하나로마트 사천농협 본점 (차량 6분)\n- 편의점: 세븐일레븐 강릉해안로점 (차량 2분)\n- 강릉 경포호수 (차량 6분, 4.1km)\n- 에디슨과학박물관 (차량 5분, 3.6km)\n- 오죽헌 (차량 11분, 6.6km)\n- 선교장 (차량 9분, 5.7km)\n- 허균,허난설헌생가터 (차량 9분, 5.2km)\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "- 강릉 화재사건 이후 버너 반입 금지입니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "haramchae.com",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/3090",
     "ybsId": "65908",
     "tripPropertyId": "3090",
     "partnerType": "sales_agency",
@@ -71,13 +71,13 @@
       {
         "id": "c185df14-fce4-4a74-85b1-5047968e69b7",
         "name": "애견동반",
-        "description": "소중한 반려견과 편안하게 머물며 즐거운 추억을 만들어보세요!\n\n※ 자세한 사항은 이용안내 참고 부탁드립니다.",
+        "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 마릿수: 객실당 2마리까지 동반가능\n- 제한 무게: 5kg미만 반려견만 동반가능\n- 애견 비품: 객실 내 배변패드 1-2장제공, 밥그릇/물그릇 구비\n※ 그 외 용품은 개인지참 필수",
         "displayOrder": 0,
         "images": [
           {
-            "id": "01a1aef3-8eef-7b8b-8692-32e52b1570ee",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c185df14-fce4-4a74-85b1-5047968e69b7/main/1793936558697-b823k1kdzv.webp",
+            "id": "01a1b0a9-533f-7a33-adc4-89c77bab50d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/c185df14-fce4-4a74-85b1-5047968e69b7/main/1793965249018-rvuwokvxs8.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -102,80 +102,146 @@
         ]
       },
       {
-        "id": "01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e",
-        "name": "바베큐파티",
-        "description": "함께 모여 즐기는 맛있는 바베큐\n특별한 시간을 만들어보세요.\n\n※ 자세한 사항은 이용안내 참고 부탁드립니다.",
-        "usageGuide": "",
-        "displayOrder": 2,
+        "id": "2f701698-431a-428d-8b2a-f5369761e48b",
+        "name": "공용바베큐",
+        "description": "",
+        "usageGuide": "- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1인 추가시 5,000원) (1박기준/현장결제)\n- 준비 소요시간: 이용 30분 전 신청\n- 이용 시간: 입실후~23:00\n- 우천 시 이용 가능 \n- 동계 시 이용 가능 \n※ 숯/그릴/버너 개인지참불가\n※ 이후에는 매너타임지켜주세요\n※ 기본양념 필요하신분은 사전에 펜션문의주세요!",
+        "displayOrder": 1,
         "images": [
           {
-            "id": "01a1aef3-91eb-7118-8afd-758ce7a10f6d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936559639-7jdtu0djyq.webp",
+            "id": "01a1b0a9-5671-7860-ab74-c35a7b22ce08",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249469-vzrkrw11or.webp",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-90d6-76f2-a7f8-48e5ee2dc087",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936559557-8tbde3leo7.webp",
+            "id": "01a1b0a9-5672-7afa-a10c-7517ac480bb7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249472-avmc6s92rn.webp",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-91ff-7112-8a3a-7c49d360f7d5",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936559892-m7nxujaazu.webp",
+            "id": "01a1b0a9-54fa-701f-93c1-3320ec1ef5f6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249473-sv4qh661v2.webp",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-9236-73fa-9657-4dae9e121b72",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936560228-ygzphiqapo.webp",
+            "id": "01a1b0a9-559c-7971-b4ce-6e8a63558b0e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249473-za4l3ytx7d.webp",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-9260-7106-bc0d-ce7d82f3228e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936560303-8to9p9ir1g.webp",
+            "id": "01a1b0a9-566a-753c-9b98-7bfca4e9ecd4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249470-pkxos9cm0o.webp",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-9384-7478-8ccb-a4b71b38c7ec",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936560394-k5n0x8fg4q.webp",
+            "id": "01a1b0a9-5672-7825-aae5-31dae0749896",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249475-pso50eixl2.webp",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-94c5-7a9d-8f37-f7b47f537e83",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936560609-ns56yfqd26.webp",
+            "id": "01a1b0a9-566e-73f8-b7fd-4caab7a16cee",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249479-0gnourykih.webp",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-93ff-77df-b75f-a87cf40ef23c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936560672-d0aaoh2770.webp",
+            "id": "01a1b0a9-5673-73fe-bb19-0cb716a641c8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249476-kyekic707x.webp",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1aef3-94c0-7ffe-8e69-6786cdfe773a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aef3-86f8-749c-acf6-b0f1cdf3cb8e/main/1793936560692-9d4bgaxg4u.webp",
+            "id": "01a1b0a9-5673-7425-a69d-168777df188c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2f701698-431a-428d-8b2a-f5369761e48b/main/1793965249483-lh3ajtlv8d.webp",
             "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a1aefc-25ab-7288-b7b9-a32850e39a82",
+        "name": "조식 서비스",
+        "description": "",
+        "usageGuide": "- 이용 요금: 무료",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a1b0aa-8cad-77e8-b2e1-4c1099c2858c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aefc-25ab-7288-b7b9-a32850e39a82/main/1793965329309-0pbdjqdk0e.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1b0aa-8cde-7ec8-8922-7d309f899898",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aefc-25ab-7288-b7b9-a32850e39a82/main/1793965329314-jdzml2nn80.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1b0aa-8cfe-7dd7-8da0-03b2f21a2bc6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aefc-25ab-7288-b7b9-a32850e39a82/main/1793965329312-b19l7y74or.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "93dff185-d511-485b-84ce-742b0dc9f45e",
+        "name": "부대시설",
+        "description": "",
+        "usageGuide": "[텃밭]\n- 싱싱한 채소 제공\n- 제공 기간: 5월 ~ 8월까지\n- 제공 품목: 상추, 쌈채소 등 야채제공",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a1b0ab-1d92-717c-9d8b-3afb1fc9abac",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/93dff185-d511-485b-84ce-742b0dc9f45e/main/1793965362723-xacx9f2vow.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1b0ab-1d96-7839-9adb-e96873369721",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/93dff185-d511-485b-84ce-742b0dc9f45e/main/1793965362725-nsq3xu7eiq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1b0ab-1d98-7f17-920c-2606d14c8081",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/93dff185-d511-485b-84ce-742b0dc9f45e/main/1793965362722-py4obkm4w3.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -185,22 +251,14 @@
       {
         "id": "da6562d7-74d8-41e8-bb1c-eb29c19d65d5",
         "name": "편의 및 주변 시설",
-        "description": "더욱 편리하고 즐거운 여행을 위해\n다양한 서비스를 제공합니다.\n\n※ 자세한 사항은 이용안내 참고 부탁드립니다.",
+        "description": "",
         "usageGuide": "- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 마트: 하나로마트 사천농협 본점 (차량 6분)\n- 편의점: 세븐일레븐 강릉해안로점 (차량 2분)\n- 강릉 경포호수 (차량 6분, 4.1km)\n- 에디슨과학박물관 (차량 5분, 3.6km)\n- 오죽헌 (차량 11분, 6.6km)\n- 선교장 (차량 9분, 5.7km)\n- 허균,허난설헌생가터 (차량 9분, 5.2km)",
         "displayOrder": 4,
         "images": [
           {
-            "id": "01a1aef3-8d2c-70df-9e46-bcc5db12f1dc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da6562d7-74d8-41e8-bb1c-eb29c19d65d5/main/1793936558699-mlj5i4hs5k.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "01a1aef3-8e97-7081-b262-5f251004be26",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da6562d7-74d8-41e8-bb1c-eb29c19d65d5/main/1793936558700-9t3ozvr8xa.webp",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -208,7 +266,7 @@
           {
             "id": "01a1aef3-8d2d-7516-9bc0-13a15f11f594",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da6562d7-74d8-41e8-bb1c-eb29c19d65d5/main/1793936558495-o7nc07ah6w.webp",
-            "sortOrder": 2,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -216,7 +274,7 @@
           {
             "id": "01a1aef3-902c-7a84-a9c0-3f5d663f9264",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da6562d7-74d8-41e8-bb1c-eb29c19d65d5/main/1793936559551-ar482bqtca.webp",
-            "sortOrder": 3,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -224,7 +282,7 @@
           {
             "id": "01a1aef3-916f-779c-abef-405506fa4d8c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/da6562d7-74d8-41e8-bb1c-eb29c19d65d5/main/1793936559588-7n54cqt344.webp",
-            "sortOrder": 4,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -291,7 +349,7 @@
           {
             "id": "805394ba-fdb3-4ede-b6b1-ecb3292bc67e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/fdFVknozCjgA.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -301,7 +359,7 @@
           {
             "id": "c8ddc3c5-0ec5-4284-835f-defb18756610",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/s6MvWR41jhgC.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -309,7 +367,7 @@
           {
             "id": "86475e42-dfaf-4d0f-8528-af36524c75de",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/GBn9teq0EvdJ.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -317,7 +375,7 @@
           {
             "id": "beb532d8-bae6-41f8-b34d-961ab9638923",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/wYUrJvoz3D1f.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,7 +383,7 @@
           {
             "id": "5bc2bc9a-9a0a-416a-b825-c94027130725",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/1gu2fAaLWTP7.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -333,7 +391,7 @@
           {
             "id": "8ca5041b-4435-4ccf-89ad-bc993b0e2b49",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/h5jXeYZGPVHF.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -341,7 +399,7 @@
           {
             "id": "f7396ced-75bc-487c-8c87-ff913097ad94",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/UOqltVHzGpR2.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -349,7 +407,7 @@
           {
             "id": "5e81740b-9516-4538-ad22-0b6820d3176b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/TOnFaIMXSfov.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -357,7 +415,7 @@
           {
             "id": "795d371f-a378-4762-b154-641a7966cb0a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/7E3RHrATmvzb.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -365,7 +423,7 @@
           {
             "id": "9c558945-a904-4b49-9e58-268488cb92c0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/DUzCmiRf1FLj.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -373,7 +431,7 @@
           {
             "id": "a9b5ba3f-cb2a-41b4-ab76-372eff0ba7ae",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/VW7KTMSOJ5aB.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -381,7 +439,7 @@
           {
             "id": "f3548c44-53a9-46ac-842b-cba67499e0a8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/ehQCJlg0XErk.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -389,7 +447,7 @@
           {
             "id": "88b68766-f4ac-40f2-ab31-f8b9e187fe11",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/uYd36chy9e8b.jpg",
-            "sortOrder": 13,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -397,7 +455,7 @@
           {
             "id": "5f7484fd-8958-41e8-a87b-569aaf9e3374",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/yKU5HceoMYvJ.jpg",
-            "sortOrder": 14,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -405,7 +463,7 @@
           {
             "id": "9776e64c-dccc-4ae9-b276-9cc0d7ea6f4d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/r9vhjeFK8VHi.jpg",
-            "sortOrder": 15,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -413,7 +471,7 @@
           {
             "id": "aba3436f-535f-4c8b-b1a7-b6809e9235ab",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/MNQSVcYsoRjr.jpg",
-            "sortOrder": 16,
+            "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -421,7 +479,7 @@
           {
             "id": "e48a94ac-514c-4911-8ae6-445070bee13c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/qK8TkBYmM5sj.jpg",
-            "sortOrder": 17,
+            "sortOrder": 15,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -429,7 +487,7 @@
           {
             "id": "14f753cb-e0a0-460a-8a7e-0f4bddedaf85",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/eUfGC2kim8gx.jpg",
-            "sortOrder": 18,
+            "sortOrder": 16,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2725,7 +2783,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
