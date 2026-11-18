@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-11-16T12:17:19.734802931Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-11-18T05:46:36.290573136Z",
     "templateType": "trip_b",
     "propertyId": "42037390-2f49-475d-b0df-dd0c3fe681f0",
     "homepageId": "01a1aef3-96ff-71c2-8701-29d865f4aa63"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 저녁 10시 이후에 도착하실 경우 미리 연락바랍니다.",
-    "usageGuide": "- 강릉 화재사건 이후 버너 반입 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 저녁 10시 이후에 도착하실 경우 미리 연락바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※ 최대인원 초과입실 불가\n\n[공용바베큐]\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1인 추가시 5,000원) (1박기준/현장결제)\n- 준비 소요시간: 이용 30분 전 신청\n- 이용 시간: 입실후~23:00\n- 우천 시 이용 가능 \n- 동계 시 이용 가능 \n※ 숯/그릴/버너 개인지참불가\n※ 이후에는 매너타임지켜주세요\n※ 기본양념 필요하신분은 사전에 펜션문의주세요!\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 마릿수: 객실당 2마리까지 동반가능\n- 제한 무게: 5kg미만 반려견만 동반가능\n- 애견 비품: 객실 내 배변패드 1-2장제공, 밥그릇/물그릇 구비\n※ 그 외 용품은 개인지참 필수\n\n[조식 서비스]\n- 이용 요금: 무료\n\n[부대시설]\n[텃밭]\n- 싱싱한 채소 제공\n- 제공 기간: 5월 ~ 8월까지\n- 제공 품목: 상추, 쌈채소 등 야채제공\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 마트: 하나로마트 사천농협 본점 (차량 6분)\n- 편의점: 세븐일레븐 강릉해안로점 (차량 2분)\n- 강릉 경포호수 (차량 6분, 4.1km)\n- 에디슨과학박물관 (차량 5분, 3.6km)\n- 오죽헌 (차량 11분, 6.6km)\n- 선교장 (차량 9분, 5.7km)\n- 허균,허난설헌생가터 (차량 9분, 5.2km)\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "[공지사항]\n- 강릉 화재사건 이후 버너 반입 금지입니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 저녁 10시 이후에 도착하실 경우 미리 연락바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 최대인원 초과입실 불가\n\n[공용바베큐]\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1인 추가시 5,000원) (1박기준/현장결제)\n- 준비 소요시간: 이용 30분 전 신청\n- 이용 시간: 입실후~23:00\n- 우천 시 이용 가능 \n- 동계 시 이용 가능 \n※ 숯/그릴/버너 개인지참불가\n※ 이후에는 매너타임지켜주세요\n※ 기본양념 필요하신분은 사전에 펜션문의주세요!\n\n[애견동반]\n- 이용 객실: 전 객실\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 마릿수: 객실당 2마리까지 동반가능\n- 제한 무게: 5kg미만 반려견만 동반가능\n- 애견 비품: 객실 내 배변패드 1-2장제공, 밥그릇/물그릇 구비\n※ 그 외 용품은 개인지참 필수\n\n[조식 서비스]\n- 이용 요금: 무료\n\n[부대시설]\n[텃밭]\n- 싱싱한 채소 제공\n- 제공 기간: 5월 ~ 8월까지\n- 제공 품목: 상추, 쌈채소 등 야채제공\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n\n- 마트: 하나로마트 사천농협 본점 (차량 6분)\n- 편의점: 세븐일레븐 강릉해안로점 (차량 2분)\n- 강릉 경포호수 (차량 6분, 4.1km)\n- 에디슨과학박물관 (차량 5분, 3.6km)\n- 오죽헌 (차량 11분, 6.6km)\n- 선교장 (차량 9분, 5.7km)\n- 허균,허난설헌생가터 (차량 9분, 5.2km)\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "- 강릉 화재사건 이후 버너 반입 금지입니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -349,7 +349,7 @@
           {
             "id": "805394ba-fdb3-4ede-b6b1-ecb3292bc67e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/fdFVknozCjgA.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,7 +359,7 @@
           {
             "id": "c8ddc3c5-0ec5-4284-835f-defb18756610",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/s6MvWR41jhgC.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,7 +367,7 @@
           {
             "id": "86475e42-dfaf-4d0f-8528-af36524c75de",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/GBn9teq0EvdJ.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -375,7 +375,7 @@
           {
             "id": "beb532d8-bae6-41f8-b34d-961ab9638923",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/wYUrJvoz3D1f.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -383,7 +383,7 @@
           {
             "id": "5bc2bc9a-9a0a-416a-b825-c94027130725",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/1gu2fAaLWTP7.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -391,7 +391,7 @@
           {
             "id": "8ca5041b-4435-4ccf-89ad-bc993b0e2b49",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/h5jXeYZGPVHF.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -399,7 +399,7 @@
           {
             "id": "f7396ced-75bc-487c-8c87-ff913097ad94",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/UOqltVHzGpR2.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -407,7 +407,7 @@
           {
             "id": "5e81740b-9516-4538-ad22-0b6820d3176b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/TOnFaIMXSfov.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -415,7 +415,7 @@
           {
             "id": "795d371f-a378-4762-b154-641a7966cb0a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/7E3RHrATmvzb.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -423,7 +423,7 @@
           {
             "id": "9c558945-a904-4b49-9e58-268488cb92c0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/DUzCmiRf1FLj.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -431,7 +431,7 @@
           {
             "id": "a9b5ba3f-cb2a-41b4-ab76-372eff0ba7ae",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/VW7KTMSOJ5aB.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -439,7 +439,7 @@
           {
             "id": "f3548c44-53a9-46ac-842b-cba67499e0a8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/ehQCJlg0XErk.jpg",
-            "sortOrder": 10,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -447,7 +447,7 @@
           {
             "id": "88b68766-f4ac-40f2-ab31-f8b9e187fe11",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/uYd36chy9e8b.jpg",
-            "sortOrder": 11,
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -455,7 +455,7 @@
           {
             "id": "5f7484fd-8958-41e8-a87b-569aaf9e3374",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/yKU5HceoMYvJ.jpg",
-            "sortOrder": 12,
+            "sortOrder": 14,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -463,7 +463,7 @@
           {
             "id": "9776e64c-dccc-4ae9-b276-9cc0d7ea6f4d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/r9vhjeFK8VHi.jpg",
-            "sortOrder": 13,
+            "sortOrder": 15,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -471,7 +471,7 @@
           {
             "id": "aba3436f-535f-4c8b-b1a7-b6809e9235ab",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/MNQSVcYsoRjr.jpg",
-            "sortOrder": 14,
+            "sortOrder": 16,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -479,7 +479,7 @@
           {
             "id": "e48a94ac-514c-4911-8ae6-445070bee13c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/qK8TkBYmM5sj.jpg",
-            "sortOrder": 15,
+            "sortOrder": 17,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -487,7 +487,7 @@
           {
             "id": "14f753cb-e0a0-460a-8a7e-0f4bddedaf85",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2022/11/14/eUfGC2kim8gx.jpg",
-            "sortOrder": 16,
+            "sortOrder": 18,
             "description": "",
             "isSelected": true,
             "blockId": null
